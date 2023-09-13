@@ -1,0 +1,2 @@
+GIT is a version control system.
+GITHUB is a web-based GIT repository.
